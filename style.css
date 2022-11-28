@@ -1,0 +1,23 @@
+* {
+  background-color: lightblue;
+  font-family: "Times New Roman", sans-serif, serif;
+}
+
+h1 {
+  color: silver;
+  text-align: center;
+  font-size: 100px;
+  font-weight: bolder;
+}
+
+a {
+  color: green;
+  display: block;
+  text-align: center;
+  font-weight: bold;
+}
+
+img {
+  height: auto;
+  width: 500px;
+}
